@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "mijuego",
+"dataUrl": "juego.data.unityweb",
+"asmCodeUrl": "juego.asm.code.unityweb",
+"asmMemoryUrl": "juego.asm.memory.unityweb",
+"asmFrameworkUrl": "juego.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
